@@ -2,3 +2,4 @@ Nessa aplicação, crei a estrutura de um blog com HTML e utilizei o blog da Ken
 
 **Tecnologias**: HTML
 
+**Link**: https://henriqueamfreitas.github.io/Kenzie_Blog/
